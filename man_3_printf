@@ -1,6 +1,6 @@
 .\" _printf man page /usr/share/man/man3/printf.3
 .\"
-.TH _PRINTF 3 "18-10-2021" "0.1" "main _printf"
+.TH _PRINTF 3 "15-03-2021" "0.1" "main _printf"
 
 .SH NAME
 _printf
@@ -8,8 +8,8 @@ _printf
 .B_printf - format and print data. Part of a project at ALX School.
 
 .SH SYNOPSIS
-Part of a project at ALX school.
-This project mimics the printf found in in C.
+Part of a project at alx school.
+This project mimics the printf found in C.
 
 _printf FORMAT [ARGUMENT]...
 .ss
@@ -55,11 +55,11 @@ Pending
 .SH FORMAT
 controls the output as in C printf.  Interpreted sequences are:
 
-       \n     new line
+\n     new line
 
-       \t     tab
+\t     tab
 
-       %%     a single %
+%%     a single %
 
 .SS Example
 .RS
@@ -85,4 +85,4 @@ Upon success, these main function will return the number of characters printed.
 Memory issues are known to frequent this function. User beware.
 
 .SH "AUTHOR"
-William Sho
+Seyi Derah
